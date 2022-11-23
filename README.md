@@ -1,1 +1,1 @@
-# JavaDemo
+#Java sample applications
